@@ -9,6 +9,7 @@
       "bed": 2,
       "bath": 1,
       "flatSize": "300 sq ft",
+      "condition": "for sell",
       "price": 100,
       "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311478002.jpg?k=3152a579112c1288c83d22a1b9cbad7d2077809f7a00066e37ef3a8580eba2be&o=&hp=1"
     },
@@ -22,6 +23,7 @@
       "bed": 3,
       "bath": 2,
       "flatSize": "450 sq ft",
+      "condition": "for rent",
       "price": 150,
       "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311478002.jpg?k=3152a579112c1288c83d22a1b9cbad7d2077809f7a00066e37ef3a8580eba2be&o=&hp=1"
     },
@@ -35,6 +37,7 @@
       "bed": 1,
       "bath": 1,
       "flatSize": "200 sq ft",
+      "condition": "for rent",
       "price": 80,
       "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311478002.jpg?k=3152a579112c1288c83d22a1b9cbad7d2077809f7a00066e37ef3a8580eba2be&o=&hp=1"
     },
@@ -48,6 +51,7 @@
       "bed": 4,
       "bath": 3,
       "flatSize": "600 sq ft",
+      "condition": "for sell",
       "price": 200,
       "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311478002.jpg?k=3152a579112c1288c83d22a1b9cbad7d2077809f7a00066e37ef3a8580eba2be&o=&hp=1"
     },
@@ -61,6 +65,7 @@
       "bed": 2,
       "bath": 2,
       "flatSize": "350 sq ft",
+      "condition": "for rent",
       "price": 120,
       "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311478002.jpg?k=3152a579112c1288c83d22a1b9cbad7d2077809f7a00066e37ef3a8580eba2be&o=&hp=1"
     },
@@ -74,6 +79,7 @@
       "bed": 1,
       "bath": 1,
       "flatSize": "180 sq ft",
+      "condition": "for sell",
       "price": 75,
       "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311478002.jpg?k=3152a579112c1288c83d22a1b9cbad7d2077809f7a00066e37ef3a8580eba2be&o=&hp=1"
     },
@@ -87,6 +93,7 @@
       "bed": 2,
       "bath": 2,
       "flatSize": "400 sq ft",
+      "condition": "for sell",
       "price": 140,
       "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311478002.jpg?k=3152a579112c1288c83d22a1b9cbad7d2077809f7a00066e37ef3a8580eba2be&o=&hp=1"
     },
@@ -100,6 +107,7 @@
       "bed": 3,
       "bath": 2,
       "flatSize": "450 sq ft",
+      "condition": "for rent",
       "price": 160,
       "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311478002.jpg?k=3152a579112c1288c83d22a1b9cbad7d2077809f7a00066e37ef3a8580eba2be&o=&hp=1"
     },
@@ -113,6 +121,7 @@
       "bed": 1,
       "bath": 1,
       "flatSize": "250 sq ft",
+      "condition": "for rent",
       "price": 110,
       "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311478002.jpg?k=3152a579112c1288c83d22a1b9cbad7d2077809f7a00066e37ef3a8580eba2be&o=&hp=1"
     },
@@ -126,6 +135,7 @@
       "bed": 2,
       "bath": 1,
       "flatSize": "320 sq ft",
+      "condition": "for sell",
       "price": 95,
       "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311478002.jpg?k=3152a579112c1288c83d22a1b9cbad7d2077809f7a00066e37ef3a8580eba2be&o=&hp=1"
     }
