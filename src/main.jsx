@@ -10,6 +10,7 @@ import Main from './Layout/Main';
 import Home from './Pages/Home/Home/Home';
 import { Provider } from 'react-redux';
 import store from './StateManagement/store/store';
+import CardDetails from './Pages/CardDetails/CardDetails';
 
 const router = createBrowserRouter([
   {
@@ -19,6 +20,10 @@ const router = createBrowserRouter([
       {
         path: "/",
         element: <Home></Home>
+      },
+      {
+        path :"/:id",
+        element:<CardDetails></CardDetails>
       }
     ]
   },

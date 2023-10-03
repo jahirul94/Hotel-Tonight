@@ -1,17 +1,17 @@
 [
     {
       "_id": "1",
-      "hotelName": "Hotel Alpha",
+      "hotelName": "The Ritz-Carlton",
       "city": "Dubai",
       "rating": 4.5,
-      "currentLocation": "Location A",
+      "currentLocation": "33/11 dubai uae",
       "room": 2,
       "bed": 2,
       "bath": 1,
       "flatSize": "300 sq ft",
       "condition": "for sell",
       "price": 100,
-      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311478002.jpg?k=3152a579112c1288c83d22a1b9cbad7d2077809f7a00066e37ef3a8580eba2be&o=&hp=1"
+      "image": "https://img.freepik.com/free-photo/beautiful-luxury-outdoor-swimming-pool-hotel-resort_74190-7433.jpg"
     },
     {
       "_id": "2",
@@ -25,28 +25,28 @@
       "flatSize": "450 sq ft",
       "condition": "for rent",
       "price": 150,
-      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311478002.jpg?k=3152a579112c1288c83d22a1b9cbad7d2077809f7a00066e37ef3a8580eba2be&o=&hp=1"
+      "image": "https://img.freepik.com/free-photo/beautiful-luxury-outdoor-swimming-pool-hotel-resort_74190-7433.jpg"
     },
     {
       "_id": "3",
-      "hotelName": "Hotel Gamma",
+      "hotelName": "The Plaza Hotel",
       "city": "Dubai",
       "rating": 3.8,
-      "currentLocation": "Location C",
+      "currentLocation": "dubai",
       "room": 1,
       "bed": 1,
       "bath": 1,
       "flatSize": "200 sq ft",
       "condition": "for rent",
       "price": 80,
-      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311478002.jpg?k=3152a579112c1288c83d22a1b9cbad7d2077809f7a00066e37ef3a8580eba2be&o=&hp=1"
+      "image": "https://images.pexels.com/photos/2017802/pexels-photo-2017802.jpeg?auto=compress&cs=tinysrgb&w=1600"
     },
     {
       "_id": "4",
       "hotelName": "The Waldorf",
       "city": "New York",
       "rating": 4.2,
-      "currentLocation": "Astoria New York",
+      "currentLocation": "The Waldorf Astoria",
       "room": 4,
       "bed": 4,
       "bath": 3,
@@ -57,17 +57,17 @@
     },
     {
       "_id": "5",
-      "hotelName": "Hotel Epsilon",
+      "hotelName": "Burj Al Arab Jumeirah",
       "city": "Dubai",
       "rating": 4.7,
-      "currentLocation": "Location E",
+      "currentLocation": "north dubai",
       "room": 2,
       "bed": 2,
       "bath": 2,
       "flatSize": "350 sq ft",
       "condition": "for rent",
       "price": 120,
-      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311478002.jpg?k=3152a579112c1288c83d22a1b9cbad7d2077809f7a00066e37ef3a8580eba2be&o=&hp=1"
+      "image": "https://cdn.britannica.com/96/115096-050-5AFDAF5D/Bellagio-Hotel-Casino-Las-Vegas.jpg"
     },
     {
       "_id": "6",
@@ -81,63 +81,63 @@
       "flatSize": "180 sq ft",
       "condition": "for sell",
       "price": 75,
-      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311478002.jpg?k=3152a579112c1288c83d22a1b9cbad7d2077809f7a00066e37ef3a8580eba2be&o=&hp=1"
+      "image": "https://t4.ftcdn.net/jpg/00/65/82/13/360_F_65821315_WGpXLhFtlEHfGQ8sqJ5RUNFNmnYDGgOd.jpg"
     },
     {
       "_id": "7",
-      "hotelName": "Hotel Eta",
+      "hotelName": "The Savoy",
       "city": "Delhi",
       "rating": 4.4,
-      "currentLocation": "Location G",
+      "currentLocation": "3/11 dubai",
       "room": 3,
       "bed": 2,
       "bath": 2,
       "flatSize": "400 sq ft",
       "condition": "for sell",
       "price": 140,
-      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311478002.jpg?k=3152a579112c1288c83d22a1b9cbad7d2077809f7a00066e37ef3a8580eba2be&o=&hp=1"
+      "image": "https://thehoughtonhotel.com/wp-content/uploads/2023/02/Houghton-Hotel-3-20-scaled.jpg"
     },
     {
       "_id": "8",
-      "hotelName": "Hotel Theta",
+      "hotelName": "Hotel Bel-Air",
       "city": "Delhi",
       "rating": 4.8,
-      "currentLocation": "Location H",
+      "currentLocation": "north delhi",
       "room": 3,
       "bed": 3,
       "bath": 2,
       "flatSize": "450 sq ft",
       "condition": "for rent",
       "price": 160,
-      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311478002.jpg?k=3152a579112c1288c83d22a1b9cbad7d2077809f7a00066e37ef3a8580eba2be&o=&hp=1"
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG90ZWxzfGVufDB8fDB8fHww&w=1000&q=80"
     },
     {
       "_id": "9",
-      "hotelName": "Hotel Iota",
+      "hotelName": "Hotel Bel-Air",
       "city": "Mumbai",
       "rating": 4.6,
-      "currentLocation": "Location I",
+      "currentLocation": "bijoy koloni mumbai",
       "room": 2,
       "bed": 1,
       "bath": 1,
       "flatSize": "250 sq ft",
       "condition": "for rent",
       "price": 110,
-      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311478002.jpg?k=3152a579112c1288c83d22a1b9cbad7d2077809f7a00066e37ef3a8580eba2be&o=&hp=1"
+      "image": "https://hoteldel.com/wp-content/uploads/2021/03/hotel-del-coronado-views-suite-K1TOS1-K1TOJ1-1600x1000-1.jpg"
     },
     {
       "_id": "10",
-      "hotelName": "Hotel Kappa",
-      "city": "Mumbai",
+      "hotelName": "The Biltmore Hotel",
+      "city": "Dubai",
       "rating": 3.9,
-      "currentLocation": "Location J",
+      "currentLocation": "south mumbai",
       "room": 2,
       "bed": 2,
       "bath": 1,
       "flatSize": "320 sq ft",
       "condition": "for sell",
       "price": 95,
-      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311478002.jpg?k=3152a579112c1288c83d22a1b9cbad7d2077809f7a00066e37ef3a8580eba2be&o=&hp=1"
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aG90ZWx8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
     }
   ]
   

@@ -17,8 +17,9 @@ const Nav = () => {
     </>
 
 
+
     return (
-        <nav className="bg-blue-500 p-4">
+        <nav className="bg-gray-600 p-4 text-white">
             <div className="w-11/12 mx-auto">
                 <div className="flex justify-between items-center">
                     <div className="text-white font-bold text-2xl">Hotel Tonight</div>
